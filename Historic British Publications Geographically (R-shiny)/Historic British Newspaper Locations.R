@@ -55,7 +55,7 @@ server <- function(input, output, session) {
     leaflet() %>%
       addTiles() %>% #Default Tiles
       setView(lng = -5, lat = 54, zoom = 5.2) %>% # Default zoom to UK & Ireland
-      addCircleMarkers(data = map_df(), radius = ~sqrt(titles)) # Label coordinates with cirles
+      addCircleMarkers(data = map_df(), radius = ~sqrt(titles)) # Label coordinates with circles
     
   })
 }
