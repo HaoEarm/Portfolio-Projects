@@ -1,5 +1,5 @@
 # Exploring World Covid Dataset with SQL & Tableau
-This project uses SQL to conduct data exploration on a world covid dataset to help create visualisations in Tableau.
+This project uses SQL to conduct data exploration on a world covid dataset to help create visualisations in Tableau.\
 SQL commands used include: Joins, CTE's, Temp Tables, Window Functions, Aggregate Functions, Creating Views, Converting Data Types.
 
 # Tableau Visualisation
