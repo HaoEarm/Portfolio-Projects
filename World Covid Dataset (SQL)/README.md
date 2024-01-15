@@ -3,6 +3,7 @@ This project uses SQL to conduct data exploration on a world covid dataset to he
 
 # Tableau Visualisation
 Below is the  link for visualisations obtained from this data exploration done in Tableau.
+
 https://public.tableau.com/views/DataVisualiationofWorldCovidData/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 # Credits 
